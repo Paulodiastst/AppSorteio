@@ -17,7 +17,6 @@
 
 
 <h3 align="center" style="font-size: 3rem";>Principal tela</h3>
-<img src="img/spiderman.png">
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/79487813/147428175-10fd955b-9b86-4af5-a360-c2abb4683de5.png"/>
